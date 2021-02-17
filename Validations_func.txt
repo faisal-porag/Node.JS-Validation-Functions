@@ -1,0 +1,8 @@
+1. isNumeric() - Checks if the input is numeric
+2. contains() - Checks if the input contains a certain value
+3. isBoolean() - Check is the input is a boolean value
+4. isCurrency() - Checks if the input is currency-formatted
+5. isJSON() - Checks if the input is JSON
+6. isMobilePhone() - Checks is the input is a valid mobile phone number
+7. isPostalCode() - Checks if the input is a valid postal code
+8. isBefore() and isAfter() - Checks if a date is before or after another date
