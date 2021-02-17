@@ -6,5 +6,22 @@
 6. isMobilePhone() - Checks is the input is a valid mobile phone number
 7. isPostalCode() - Checks if the input is a valid postal code
 8. isBefore() and isAfter() - Checks if a date is before or after another date
-9. isEmail(): This validator function checks if the incoming string is a valid email address.
-10. isLength(): This validator checks if the length of a string falls in a specified range. In our case, the range specified is a minimum of 6 characters.
+9. isEmail(): -This validator function checks if the incoming string is a valid email address.
+10. isLength(): -This validator checks if the length of a string falls in a specified range. In our case, the range specified is a minimum of 6 characters.
+11. isAlpha(): -check if the string contains only letters (a-zA-Z).
+12. isAlphanumeric(): -check if the string contains only letters and numbers.
+13. isDataURI(): -check if the string is a data uri format.
+14. isDate(): -Check if the input is a valid date. e.g. [2002-07-15, new Date()].
+15. isDecimal(): -check if the string represents a decimal number, such as 0.1, .3, 1.1, 1.00003, 4.0, etc.
+16. isEmpty(): -check if the string has a length of zero.
+17. isFloat(): -check if the string is a float.
+18. isInt(): -check if the string is an integer.
+19. isIP(): -check if the string is an IP (version 4 or 6).
+20. isJWT(str): -check if the string is valid JWT token.
+21. isLowercase(str): -check if the string is lowercase.
+22. isMD5(str): -check if the string is a MD5 hash.
+23. isPassportNumber(str, countryCode): -check if the string is a valid passport number.
+24. isUppercase(str): -check if the string is uppercase.
+25. isStrongPassword(str [, options]): -Check if a password is strong or not. Allows for custom requirements or scoring rules. If returnScore is true, then the function returns an integer score for the password rather than a boolean.
+26. isURL(str [, options]): -check if the string is an URL.
+27. matches(str, pattern [, modifiers]): -check if string matches the pattern.
