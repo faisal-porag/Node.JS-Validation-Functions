@@ -1,11 +1,11 @@
-1. isNumeric() - Checks if the input is numeric
-2. contains() - Checks if the input contains a certain value
-3. isBoolean() - Check is the input is a boolean value
-4. isCurrency() - Checks if the input is currency-formatted
-5. isJSON() - Checks if the input is JSON
-6. isMobilePhone() - Checks is the input is a valid mobile phone number
-7. isPostalCode() - Checks if the input is a valid postal code
-8. isBefore() and isAfter() - Checks if a date is before or after another date
+1. isNumeric(): - Checks if the input is numeric
+2. contains(): - Checks if the input contains a certain value
+3. isBoolean(): - Check is the input is a boolean value
+4. isCurrency(): - Checks if the input is currency-formatted
+5. isJSON(): - Checks if the input is JSON
+6. isMobilePhone(): - Checks is the input is a valid mobile phone number
+7. isPostalCode(): - Checks if the input is a valid postal code
+8. isBefore(): and isAfter() - Checks if a date is before or after another date
 9. isEmail(): -This validator function checks if the incoming string is a valid email address.
 10. isLength(): -This validator checks if the length of a string falls in a specified range. In our case, the range specified is a minimum of 6 characters.
 11. isAlpha(): -check if the string contains only letters (a-zA-Z).
